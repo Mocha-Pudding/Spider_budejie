@@ -31,5 +31,8 @@
 </br>
 </br>
 ![ScreenShot of icon](https://github.com/Mocha-Pudding/Spider_budejie/blob/master/budejie4.jpg)   
-将爬取下来的表情包保存在csv文件中↑</br>
+将爬取下来的内涵段子保存在csv文件中↑</br>
 </br>
+
+
+
