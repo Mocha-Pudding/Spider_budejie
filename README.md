@@ -1,6 +1,6 @@
 # Spider_budejie 百思不得姐内涵段子</br>
 </br>
-<h1 align="center">:whale:多线程下载百思不得姐内涵段子（生产者与消费者模式）:whale:</h></br>
+<h1 align="center">:whale:多线程下载内涵段子（生产者与消费者模式）:whale:</h></br>
 </br>
 <p align="center">🍭🍭🍭👋👋👋</p>
 
